@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import RegisterGame from './pages/RegisterGame';
 import Statistics from './pages/Statistics';
@@ -7,7 +7,7 @@ import AccessibilityButtons from './components/AccessibilityButtons';
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter basename="/sistema-handebol-novo">
       <AccessibilityButtons />
       <div>
         <Navbar />
@@ -17,7 +17,7 @@ function App() {
           <Route path="/statistics" element={<Statistics />} />
         </Routes>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 
