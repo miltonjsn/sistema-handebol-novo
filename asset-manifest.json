@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/miltonjsn/sistema-handebol-novo/static/css/main.7ee27623.css",
-    "main.js": "/miltonjsn/sistema-handebol-novo/static/js/main.cd38096d.js",
-    "index.html": "/miltonjsn/sistema-handebol-novo/index.html",
-    "main.7ee27623.css.map": "/miltonjsn/sistema-handebol-novo/static/css/main.7ee27623.css.map",
-    "main.cd38096d.js.map": "/miltonjsn/sistema-handebol-novo/static/js/main.cd38096d.js.map"
+    "main.css": "/sistema-handebol-novo/static/css/main.7ee27623.css",
+    "main.js": "/sistema-handebol-novo/static/js/main.c719ec77.js",
+    "index.html": "/sistema-handebol-novo/index.html",
+    "main.7ee27623.css.map": "/sistema-handebol-novo/static/css/main.7ee27623.css.map",
+    "main.c719ec77.js.map": "/sistema-handebol-novo/static/js/main.c719ec77.js.map"
   },
   "entrypoints": [
     "static/css/main.7ee27623.css",
-    "static/js/main.cd38096d.js"
+    "static/js/main.c719ec77.js"
   ]
 }
