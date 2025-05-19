@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miltonjsn/sistema-handebol-novo/static/css/main.7ee27623.css",
+    "main.js": "/miltonjsn/sistema-handebol-novo/static/js/main.cd38096d.js",
+    "index.html": "/miltonjsn/sistema-handebol-novo/index.html",
+    "main.7ee27623.css.map": "/miltonjsn/sistema-handebol-novo/static/css/main.7ee27623.css.map",
+    "main.cd38096d.js.map": "/miltonjsn/sistema-handebol-novo/static/js/main.cd38096d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee27623.css",
+    "static/js/main.cd38096d.js"
+  ]
+}
